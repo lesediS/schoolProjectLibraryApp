@@ -1,0 +1,120 @@
+C:\Users\sktre\source\repos\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\LibraryApp.exe
+C:\Users\sktre\source\repos\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\LibraryApp.deps.json
+C:\Users\sktre\source\repos\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\LibraryApp.runtimeconfig.json
+C:\Users\sktre\source\repos\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\LibraryApp.runtimeconfig.dev.json
+C:\Users\sktre\source\repos\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\LibraryApp.dll
+C:\Users\sktre\source\repos\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\LibraryApp.pdb
+C:\Users\sktre\source\repos\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.csproj.AssemblyReference.cache
+C:\Users\sktre\source\repos\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\sktre\source\repos\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\sktre\source\repos\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp_MarkupCompile.cache
+C:\Users\sktre\source\repos\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp_MarkupCompile.lref
+C:\Users\sktre\source\repos\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\sktre\source\repos\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.g.resources
+C:\Users\sktre\source\repos\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sktre\source\repos\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.AssemblyInfoInputs.cache
+C:\Users\sktre\source\repos\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.AssemblyInfo.cs
+C:\Users\sktre\source\repos\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.csproj.CoreCompileInputs.cache
+C:\Users\sktre\source\repos\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.dll
+C:\Users\sktre\source\repos\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.pdb
+C:\Users\sktre\source\repos\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.genruntimeconfig.cache
+C:\Users\sktre\source\repos\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\Replace.g.cs
+C:\Users\sktre\source\repos\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\Replace.baml
+C:\Users\didi\Desktop\FINAL YEAR SEMESTER 2\PROG7312\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\LibraryApp.exe
+C:\Users\didi\Desktop\FINAL YEAR SEMESTER 2\PROG7312\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\LibraryApp.deps.json
+C:\Users\didi\Desktop\FINAL YEAR SEMESTER 2\PROG7312\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\LibraryApp.runtimeconfig.json
+C:\Users\didi\Desktop\FINAL YEAR SEMESTER 2\PROG7312\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\LibraryApp.runtimeconfig.dev.json
+C:\Users\didi\Desktop\FINAL YEAR SEMESTER 2\PROG7312\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\LibraryApp.dll
+C:\Users\didi\Desktop\FINAL YEAR SEMESTER 2\PROG7312\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\LibraryApp.pdb
+C:\Users\didi\Desktop\FINAL YEAR SEMESTER 2\PROG7312\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.csproj.AssemblyReference.cache
+C:\Users\didi\Desktop\FINAL YEAR SEMESTER 2\PROG7312\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\didi\Desktop\FINAL YEAR SEMESTER 2\PROG7312\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\Replace.g.cs
+C:\Users\didi\Desktop\FINAL YEAR SEMESTER 2\PROG7312\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\didi\Desktop\FINAL YEAR SEMESTER 2\PROG7312\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp_MarkupCompile.cache
+C:\Users\didi\Desktop\FINAL YEAR SEMESTER 2\PROG7312\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp_MarkupCompile.lref
+C:\Users\didi\Desktop\FINAL YEAR SEMESTER 2\PROG7312\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\didi\Desktop\FINAL YEAR SEMESTER 2\PROG7312\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\Replace.baml
+C:\Users\didi\Desktop\FINAL YEAR SEMESTER 2\PROG7312\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.g.resources
+C:\Users\didi\Desktop\FINAL YEAR SEMESTER 2\PROG7312\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\didi\Desktop\FINAL YEAR SEMESTER 2\PROG7312\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.AssemblyInfoInputs.cache
+C:\Users\didi\Desktop\FINAL YEAR SEMESTER 2\PROG7312\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.AssemblyInfo.cs
+C:\Users\didi\Desktop\FINAL YEAR SEMESTER 2\PROG7312\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.csproj.CoreCompileInputs.cache
+C:\Users\didi\Desktop\FINAL YEAR SEMESTER 2\PROG7312\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.dll
+C:\Users\didi\Desktop\FINAL YEAR SEMESTER 2\PROG7312\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.pdb
+C:\Users\didi\Desktop\FINAL YEAR SEMESTER 2\PROG7312\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.genruntimeconfig.cache
+C:\Users\sktre\OneDrive\Desktop\PROG7312 POE Part 1 Lesedi Seleke ST10119317\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\LibraryApp.exe
+C:\Users\sktre\OneDrive\Desktop\PROG7312 POE Part 1 Lesedi Seleke ST10119317\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\LibraryApp.deps.json
+C:\Users\sktre\OneDrive\Desktop\PROG7312 POE Part 1 Lesedi Seleke ST10119317\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\LibraryApp.runtimeconfig.json
+C:\Users\sktre\OneDrive\Desktop\PROG7312 POE Part 1 Lesedi Seleke ST10119317\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\LibraryApp.runtimeconfig.dev.json
+C:\Users\sktre\OneDrive\Desktop\PROG7312 POE Part 1 Lesedi Seleke ST10119317\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\LibraryApp.dll
+C:\Users\sktre\OneDrive\Desktop\PROG7312 POE Part 1 Lesedi Seleke ST10119317\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\LibraryApp.pdb
+C:\Users\sktre\OneDrive\Desktop\PROG7312 POE Part 1 Lesedi Seleke ST10119317\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.csproj.AssemblyReference.cache
+C:\Users\sktre\OneDrive\Desktop\PROG7312 POE Part 1 Lesedi Seleke ST10119317\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\sktre\OneDrive\Desktop\PROG7312 POE Part 1 Lesedi Seleke ST10119317\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\Match.g.cs
+C:\Users\sktre\OneDrive\Desktop\PROG7312 POE Part 1 Lesedi Seleke ST10119317\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\Replace.g.cs
+C:\Users\sktre\OneDrive\Desktop\PROG7312 POE Part 1 Lesedi Seleke ST10119317\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\sktre\OneDrive\Desktop\PROG7312 POE Part 1 Lesedi Seleke ST10119317\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp_MarkupCompile.cache
+C:\Users\sktre\OneDrive\Desktop\PROG7312 POE Part 1 Lesedi Seleke ST10119317\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp_MarkupCompile.lref
+C:\Users\sktre\OneDrive\Desktop\PROG7312 POE Part 1 Lesedi Seleke ST10119317\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\sktre\OneDrive\Desktop\PROG7312 POE Part 1 Lesedi Seleke ST10119317\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\Match.baml
+C:\Users\sktre\OneDrive\Desktop\PROG7312 POE Part 1 Lesedi Seleke ST10119317\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\Replace.baml
+C:\Users\sktre\OneDrive\Desktop\PROG7312 POE Part 1 Lesedi Seleke ST10119317\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.g.resources
+C:\Users\sktre\OneDrive\Desktop\PROG7312 POE Part 1 Lesedi Seleke ST10119317\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sktre\OneDrive\Desktop\PROG7312 POE Part 1 Lesedi Seleke ST10119317\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.AssemblyInfoInputs.cache
+C:\Users\sktre\OneDrive\Desktop\PROG7312 POE Part 1 Lesedi Seleke ST10119317\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.AssemblyInfo.cs
+C:\Users\sktre\OneDrive\Desktop\PROG7312 POE Part 1 Lesedi Seleke ST10119317\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.csproj.CoreCompileInputs.cache
+C:\Users\sktre\OneDrive\Desktop\PROG7312 POE Part 1 Lesedi Seleke ST10119317\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.dll
+C:\Users\sktre\OneDrive\Desktop\PROG7312 POE Part 1 Lesedi Seleke ST10119317\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.pdb
+C:\Users\sktre\OneDrive\Desktop\PROG7312 POE Part 1 Lesedi Seleke ST10119317\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.genruntimeconfig.cache
+C:\Users\sktre\OneDrive\Desktop\PROG7312 POE Part 2 ST10119317 Lesedi Seleke\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.csproj.AssemblyReference.cache
+C:\Users\sktre\OneDrive\Desktop\PROG7312 POE Part 2 ST10119317 Lesedi Seleke\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\FindNumber.g.cs
+C:\Users\sktre\OneDrive\Desktop\PROG7312 POE Part 2 ST10119317 Lesedi Seleke\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\sktre\OneDrive\Desktop\PROG7312 POE Part 2 ST10119317 Lesedi Seleke\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\Match.g.cs
+C:\Users\sktre\OneDrive\Desktop\PROG7312 POE Part 2 ST10119317 Lesedi Seleke\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\Replace.g.cs
+C:\Users\sktre\OneDrive\Desktop\PROG7312 POE Part 2 ST10119317 Lesedi Seleke\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\sktre\OneDrive\Desktop\PROG7312 POE Part 2 ST10119317 Lesedi Seleke\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp_MarkupCompile.cache
+C:\Users\sktre\OneDrive\Desktop\PROG7312 POE Part 2 ST10119317 Lesedi Seleke\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp_MarkupCompile.lref
+C:\Users\sktre\OneDrive\Desktop\PROG7312 POE Part 2 ST10119317 Lesedi Seleke\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.dll
+C:\Users\sktre\OneDrive\Desktop\PROG7312 POE Part 2 ST10119317 Lesedi Seleke\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.pdb
+C:\Users\sktre\OneDrive\Desktop\PROG7312 POE Part 2 ST10119317 Lesedi Seleke\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\LibraryApp.exe
+C:\Users\sktre\OneDrive\Desktop\PROG7312 POE Part 2 ST10119317 Lesedi Seleke\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\LibraryApp.deps.json
+C:\Users\sktre\OneDrive\Desktop\PROG7312 POE Part 2 ST10119317 Lesedi Seleke\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\LibraryApp.runtimeconfig.json
+C:\Users\sktre\OneDrive\Desktop\PROG7312 POE Part 2 ST10119317 Lesedi Seleke\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\LibraryApp.runtimeconfig.dev.json
+C:\Users\sktre\OneDrive\Desktop\PROG7312 POE Part 2 ST10119317 Lesedi Seleke\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\LibraryApp.dll
+C:\Users\sktre\OneDrive\Desktop\PROG7312 POE Part 2 ST10119317 Lesedi Seleke\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\LibraryApp.pdb
+C:\Users\sktre\OneDrive\Desktop\PROG7312 POE Part 2 ST10119317 Lesedi Seleke\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\FindNumber.baml
+C:\Users\sktre\OneDrive\Desktop\PROG7312 POE Part 2 ST10119317 Lesedi Seleke\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\sktre\OneDrive\Desktop\PROG7312 POE Part 2 ST10119317 Lesedi Seleke\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\Match.baml
+C:\Users\sktre\OneDrive\Desktop\PROG7312 POE Part 2 ST10119317 Lesedi Seleke\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\Replace.baml
+C:\Users\sktre\OneDrive\Desktop\PROG7312 POE Part 2 ST10119317 Lesedi Seleke\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.g.resources
+C:\Users\sktre\OneDrive\Desktop\PROG7312 POE Part 2 ST10119317 Lesedi Seleke\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sktre\OneDrive\Desktop\PROG7312 POE Part 2 ST10119317 Lesedi Seleke\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.AssemblyInfoInputs.cache
+C:\Users\sktre\OneDrive\Desktop\PROG7312 POE Part 2 ST10119317 Lesedi Seleke\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.AssemblyInfo.cs
+C:\Users\sktre\OneDrive\Desktop\PROG7312 POE Part 2 ST10119317 Lesedi Seleke\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.csproj.CoreCompileInputs.cache
+C:\Users\sktre\OneDrive\Desktop\PROG7312 POE Part 2 ST10119317 Lesedi Seleke\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.genruntimeconfig.cache
+C:\Users\sktre\Desktop\PROG7312 POE Part 2 ST10119317 Lesedi Seleke\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\LibraryApp.exe
+C:\Users\sktre\Desktop\PROG7312 POE Part 2 ST10119317 Lesedi Seleke\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\LibraryApp.deps.json
+C:\Users\sktre\Desktop\PROG7312 POE Part 2 ST10119317 Lesedi Seleke\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\LibraryApp.runtimeconfig.json
+C:\Users\sktre\Desktop\PROG7312 POE Part 2 ST10119317 Lesedi Seleke\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\LibraryApp.runtimeconfig.dev.json
+C:\Users\sktre\Desktop\PROG7312 POE Part 2 ST10119317 Lesedi Seleke\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\LibraryApp.dll
+C:\Users\sktre\Desktop\PROG7312 POE Part 2 ST10119317 Lesedi Seleke\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\LibraryApp.pdb
+C:\Users\sktre\Desktop\PROG7312 POE Part 2 ST10119317 Lesedi Seleke\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.csproj.AssemblyReference.cache
+C:\Users\sktre\Desktop\PROG7312 POE Part 2 ST10119317 Lesedi Seleke\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\FindNumber.g.cs
+C:\Users\sktre\Desktop\PROG7312 POE Part 2 ST10119317 Lesedi Seleke\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\sktre\Desktop\PROG7312 POE Part 2 ST10119317 Lesedi Seleke\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\Match.g.cs
+C:\Users\sktre\Desktop\PROG7312 POE Part 2 ST10119317 Lesedi Seleke\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\Replace.g.cs
+C:\Users\sktre\Desktop\PROG7312 POE Part 2 ST10119317 Lesedi Seleke\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\sktre\Desktop\PROG7312 POE Part 2 ST10119317 Lesedi Seleke\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp_MarkupCompile.cache
+C:\Users\sktre\Desktop\PROG7312 POE Part 2 ST10119317 Lesedi Seleke\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp_MarkupCompile.lref
+C:\Users\sktre\Desktop\PROG7312 POE Part 2 ST10119317 Lesedi Seleke\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\FindNumber.baml
+C:\Users\sktre\Desktop\PROG7312 POE Part 2 ST10119317 Lesedi Seleke\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\sktre\Desktop\PROG7312 POE Part 2 ST10119317 Lesedi Seleke\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\Match.baml
+C:\Users\sktre\Desktop\PROG7312 POE Part 2 ST10119317 Lesedi Seleke\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\Replace.baml
+C:\Users\sktre\Desktop\PROG7312 POE Part 2 ST10119317 Lesedi Seleke\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.g.resources
+C:\Users\sktre\Desktop\PROG7312 POE Part 2 ST10119317 Lesedi Seleke\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sktre\Desktop\PROG7312 POE Part 2 ST10119317 Lesedi Seleke\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.AssemblyInfoInputs.cache
+C:\Users\sktre\Desktop\PROG7312 POE Part 2 ST10119317 Lesedi Seleke\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.AssemblyInfo.cs
+C:\Users\sktre\Desktop\PROG7312 POE Part 2 ST10119317 Lesedi Seleke\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.csproj.CoreCompileInputs.cache
+C:\Users\sktre\Desktop\PROG7312 POE Part 2 ST10119317 Lesedi Seleke\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.dll
+C:\Users\sktre\Desktop\PROG7312 POE Part 2 ST10119317 Lesedi Seleke\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.pdb
+C:\Users\sktre\Desktop\PROG7312 POE Part 2 ST10119317 Lesedi Seleke\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.genruntimeconfig.cache

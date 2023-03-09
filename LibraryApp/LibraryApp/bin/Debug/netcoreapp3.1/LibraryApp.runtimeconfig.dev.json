@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\sktre\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\sktre\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\sktre\\OneDrive\\Desktop\\PROG7312 POE Part 1 Lesedi Seleke ST10119317\\LibraryApp\\LibraryApp\\LibraryApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\sktre\\OneDrive\\Desktop\\PROG7312 POE Part 1 Lesedi Seleke ST10119317\\LibraryApp\\LibraryApp\\LibraryApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sktre\\OneDrive\\Desktop\\PROG7312 POE Part 1 Lesedi Seleke ST10119317\\LibraryApp\\LibraryApp\\LibraryApp.csproj",
+        "projectName": "LibraryApp",
+        "projectPath": "C:\\Users\\sktre\\OneDrive\\Desktop\\PROG7312 POE Part 1 Lesedi Seleke ST10119317\\LibraryApp\\LibraryApp\\LibraryApp.csproj",
+        "packagesPath": "C:\\Users\\sktre\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sktre\\OneDrive\\Desktop\\PROG7312 POE Part 1 Lesedi Seleke ST10119317\\LibraryApp\\LibraryApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sktre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

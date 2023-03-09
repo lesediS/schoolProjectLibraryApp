@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "1EjYKHB1bP/HBRlJcamBjtVoNRZM2Q536hnR3u7VDHSs7GYcF0mjyqii5jCV4VetHE7QZA1a4NVMjOf9Zjf6FQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sktre\\Desktop\\PROG7312 POE Part 2 ST10119317 Lesedi Seleke\\LibraryApp\\LibraryApp\\LibraryApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sktre\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\sktre\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\sktre\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\sktre\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}
